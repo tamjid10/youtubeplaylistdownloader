@@ -3,7 +3,7 @@ A Graphical Tool which can download YouTube playlist in best quality. This tool 
 
 ## Installation 
 
-Download this <a href="https://drive.google.com/open?id=1JNPN6-ox4vqHQwYR_hkachxHKm4XXtU4">setup.exe<a/> file by clicking it and run. Accept the lisences and use.
+Download this <a http://bit.ly/2Uw6rPF1<a/> file by clicking it and run. Accept the lisences and use.
 
 
 ## How to use
