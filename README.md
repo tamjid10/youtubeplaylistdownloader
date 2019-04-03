@@ -15,3 +15,7 @@ Download the setup.exe file and run. Accept the lisences and use.
 4. Paste the link 
 5. Select the Desitnation folder 
 6. And start the download.
+
+## Notes
+
+This app is in very early state . Graphical bugs and more feature to be added soon. in sha allah.
